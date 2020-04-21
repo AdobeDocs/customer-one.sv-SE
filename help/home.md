@@ -4,7 +4,7 @@ description: Ny Adobe Customer Support Experience
 seo-description: Ny Adobe Customer Support Experience
 seo-title: Adobe Experience Cloud Customer One for Enterprise
 translation-type: tm+mt
-source-git-commit: 7e03c93bc3f92c87c4f2b1a6f8e04d0bb76e55aa
+source-git-commit: c477d17b10b9699dda43136d05d4455b89ed69cf
 
 ---
 
@@ -32,9 +32,9 @@ Som vi tidigare har delat arbetar vi för att förbättra hur ni interagerar med
 
 Om du får problem efter GoLive och inte kan logga in på det nya verktyget har du följande alternativ:
 
-### Alternativ 1: E-post
+### Alternativ 1: Skicka en biljett
 
-Mejla till [customercare@adobe.com](mailto:customercare@adobe.com) och inkludera:
+Kontakta oss genom att logga en biljett från [Experience League](https://experienceleague.adobe.com/?support-solution=General#support) och inkludera:
 
 * Kontaktuppgifter: Namn, e-postadress, telefon
 * Företag
@@ -47,4 +47,4 @@ Mejla till [customercare@adobe.com](mailto:customercare@adobe.com) och inkludera
 Före den 11 maj kan du fortfarande använda det äldre [Campaign Extranet](https://support.neolane.net/webApp/extranetLogin) eller [Experience Manager Daycare](https://daycare.day.com/home.html) -systemet.  Efter den 11 maj omdirigeras du till [Admin Console](https://adminconsole.adobe.com/) eftersom dessa system då kommer att avvecklas.
 
 
-Om du har frågor om det här mejlet kan du kontakta oss på [customercare@adobe.com](mailto:customercare@adobe.com).
+Om du har frågor om det här e-postmeddelandet kan du kontakta oss genom att logga en biljett från [Experience League](https://experienceleague.adobe.com/?support-solution=General#support).
