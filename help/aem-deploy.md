@@ -4,7 +4,10 @@ description: Din nya Adobe Customer Support Experience kommer - AEM-driftsättni
 seo-title: Din nya Adobe Customer Support Experience kommer - AEM-driftsättningskontakt
 seo-description: Din nya Adobe Customer Support Experience kommer - AEM-driftsättningskontakt
 translation-type: tm+mt
-source-git-commit: 17aec30cc46915788f30b9f2042ccb8a6ce6fdbf
+source-git-commit: a78e81c0f45ca3f2fb9e8dfda6babada819aa3c1
+workflow-type: tm+mt
+source-wordcount: '342'
+ht-degree: 0%
 
 ---
 
@@ -19,7 +22,7 @@ För att komma igång behöver vi din hjälp med att bekräfta vem som ska vara 
 
 ## ÅTGÄRD: Bekräfta systemadministratören (systemadministratör)
 
-I våra register har du identifierats som den primära kontakten under den ursprungliga inköpsprocessen för organisationens Adobe Experience Manager-/Adobe Campaign-produkter. Som en följd av detta anges du som **systemadministratör**, den person som ansvarar för att hantera och skicka in supportärenden för dessa Adobe-produkter.
+I våra register har du identifierats som den primära kontakten under den ursprungliga inköpsprocessen för Adobe Experience Manager/Adobe Campaign. Som en följd av detta anges du som **systemadministratör**, den person som ansvarar för att hantera och skicka in supportärenden för dessa Adobe-produkter.
 
 Som systemadministratör har du åtkomst till [!DNL Adobe Admin Console Support Portal] så att du kan:
 
@@ -28,7 +31,9 @@ Som systemadministratör har du åtkomst till [!DNL Adobe Admin Console Support 
 * Ge supportanvändare åtkomst till portalen
 
 >[!NOTE]
->Bekräfta att du accepterar den här rollen (eller tillhandahåller en alternativ kontaktpunkt) som din organisations systemadministratör för Adobe Experience Manager-produkter genom att **fylla i och skicka bekräftelseformuläret för[[!DNL-systemadministratör]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=N5M8RY)senast 4 november 2019**.
+>
+>Bekräfta att du godkänner den här rollen (eller tillhandahåller en alternativ kontaktpunkt) som systemadministratör för Adobe Experience Manager-produkter i din organisation genom att **fylla i och skicka bekräftelseformuläret för[[!DNL-systemadministratör]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=N5M8RY)senast 4 november 2019**.
+>
 >Genom att fylla i det här formuläret ser du till att rätt autentiseringsuppgifter tilldelas den systemadministratör som har utsetts av din organisation och vi kan ange mer information som hjälper din organisation att förbereda sig för kommande ändringar.
 
 En e-postbekräftelse skickas när [[!DNL System Admin Confirmation Form]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=N5M8RY)tas emot.
