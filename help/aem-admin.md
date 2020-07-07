@@ -1,15 +1,18 @@
 ---
 title: AEM - ny supportupplevelse kommer
-seo-title: Adobe Experience Manager - Nya supportupplevelser kommer
-description: Adobe Experience Manager - Nya supportupplevelser kommer
-seo-description: Adobe Experience Manager - Nya supportupplevelser kommer
+seo-title: Adobe Experience Manager - Ny supportupplevelse kommer
+description: Adobe Experience Manager - Ny supportupplevelse kommer
+seo-description: Adobe Experience Manager - Ny supportupplevelse kommer
 translation-type: tm+mt
-source-git-commit: aa0606f8a5f1134478cb4b081e03c1bea3e151e7
+source-git-commit: a78e81c0f45ca3f2fb9e8dfda6babada819aa3c1
+workflow-type: tm+mt
+source-wordcount: '283'
+ht-degree: 0%
 
 ---
 
 
-# Adobe Experience Manager - Nya supportupplevelser kommer
+# Adobe Experience Manager - Ny supportupplevelse kommer
 
 **21 oktober 2019**
 
@@ -30,7 +33,9 @@ Som systemadministratör har du åtkomst till [!DNL Adobe Admin Console Support 
 * Ge supportanvändare åtkomst till portalen
 
 >[!NOTE]
->Bekräfta att du accepterar den här rollen (eller tillhandahåller en alternativ kontaktpunkt) som din organisations systemadministratör för Adobe Experience Manager-produkter genom att **fylla i och skicka bekräftelseformuläret för[[!DNL-systemadministratör]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=SSSVH6)senast 4 november 2019**.
+>
+>Bekräfta att du godkänner den här rollen (eller tillhandahåller en alternativ kontaktpunkt) som systemadministratör för Adobe Experience Manager-produkter i din organisation genom att **fylla i och skicka bekräftelseformuläret för[[!DNL-systemadministratör]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=SSSVH6)senast 4 november 2019**.
+>
 >Genom att fylla i det här formuläret ser du till att rätt autentiseringsuppgifter tilldelas den systemadministratör som har utsetts av din organisation.
 
 En e-postbekräftelse skickas när [[!DNL System Admin Confirmation Form]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=SSSVH6)tas emot.
