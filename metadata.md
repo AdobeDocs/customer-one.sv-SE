@@ -1,16 +1,19 @@
 ---
-cloud: experience-cloud
+cloud: Experience Cloud
 solution-title: Läs mer & Support
 solution-hub-url: https://helpx.adobe.com/support/experience-cloud.html
 solution-image: help/assets/experience-cloud-logo-24.png
 getting-started-title: Komma igång
 getting-started-url: https://experienceleague.adobe.com/
-tutorials-title: Självstudiekurser
+tutorials-title: Tutorials
 tutorials-url: https://experienceleague.adobe.com/
-git-repo: https://git.corp.adobe.com/AdobeDocs/customer-one.en
+git-repo: https://git.corp.adobe.com/AdobeDocs/customer-one.sv-SE
 index: false
 translation-type: tm+mt
-source-git-commit: 30844dc968b7d94b2cb29d92917a08f6cf322144
+source-git-commit: 50698f35a69ce3a34b41e54d6e38e05c35490351
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -27,4 +30,4 @@ Filen metadata.md innehåller metadata på postnivå som skickas till TOC.md-fil
 | getting-started-url | Länk till hjälpsidan Komma igång |
 | tutorials-url | Länka till videosjälvstudiekurser - antingen hjälpstudiekurser eller självstudiekurser på engelska |
 | mini-toc-nivåer | Anger antalet rubriknivåer som visas i den högra listen. standard är 2 |
-| git-repo | Anger platsen för huvudrapporten för intern användning |
+| git-repo | Anger platsen för den överordnad rapporten för intern användning |
