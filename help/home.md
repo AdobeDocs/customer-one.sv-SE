@@ -1,36 +1,66 @@
 ---
+keywords: Stöd för Experience Platform;plattformar;stöd för intelligenta tjänster; kundsupport, Stöd för attribueringsstöd. Stöd för rtcdp. skicka supportanmälan;kundsupport
 title: Adobe Experience Cloud Customer One for Enterprise
-description: Ny Adobe Customer Support Experience
-seo-description: Ny Adobe Customer Support Experience
+description: Ny Adobe-upplevelse för kundsupport
+seo-description: Ny Adobe-upplevelse för kundsupport
 seo-title: Adobe Experience Cloud Customer One for Enterprise
-translation-type: tm+mt
-source-git-commit: 15f3575335be07de0cf6c2926b5a05f8253f21ef
+exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
+source-git-commit: 357138a560041a9832cfe8a4f61ec8724b73ba41
 workflow-type: tm+mt
-source-wordcount: '490'
+source-wordcount: '785'
 ht-degree: 0%
 
 ---
 
+# Ny Adobe-upplevelse för kundsupport
 
-# Ny Adobe Customer Support Experience
+## Admin Console supportbiljetter
 
-## Supportbiljetter för Admin Console
+Vi är glada över att kunna meddela att Adobe Customer Support Experience finns tillgänglig den 11 maj 2020!
 
-Vi är glada över att kunna meddela att Adobes kundsupport finns tillgänglig den 11 maj 2020!
+Supportbiljetter kan nu skickas via [Admin Console](https://adminconsole.adobe.com/). Instruktioner om hur du skickar in en supportanmälan finns i avsnittet [skicka en supportanmälan](#submit-ticket).
 
-Supportbiljetter kan nu skickas via [Admin Console](https://adminconsole.adobe.com/)
+Som vi tidigare har delat arbetar vi för att förbättra ditt sätt att interagera med Adobe kundsupport, med början med Adobe Experience Manager- och Campaign-produkter. Vår vision är att effektivisera supportarbetet genom att gå över till en enda startpunkt med Adobe Admin Console. När ni är klara kommer ni enkelt att få tillgång till Adobe kundsupport; ha större insyn i servicehistoriken via ett gemensamt system för alla produkter, och begär hjälp via telefon, webben och chatt via en enda portal.
 
-Som vi tidigare har delat arbetar vi för att förbättra hur ni interagerar med Adobes kundsupport, med början i Adobe Experience Manager- och Campaign-produkterna. Vår vision är att effektivisera supportarbetet genom att gå över till en enda startpunkt med Adobe Admin Console. När ni är klara kommer ni enkelt att få tillgång till Adobes kundsupport; ha större insyn i servicehistoriken via ett gemensamt system för alla produkter, och begär hjälp via telefon, webb och chatt via den här portalen.
+## Skicka in en Admin Console-supportanmälan {#submit-ticket}
 
-## Begärda kundåtgärder
+Om du vill skicka in en supportanmälan i [Admin Console](https://adminconsole.adobe.com/) måste du ha rollen som supportadministratör tilldelad av en systemadministratör. Endast en systemadministratör i din organisation kan tilldela den här rollen. Produkt, produktprofil och andra administrativa roller kan inte tilldela supportadministratörsrollen och kan inte visa alternativet **[!UICONTROL Create Case]** som används för att skicka en supportanmälan. Mer information finns i [dokumentationen till kundtjänst för företag och team](https://helpx.adobe.com/enterprise/using/support-and-expert-services.html).
 
-1. Granska innehållet i Admin Console Enabled [Get Started](https://helpx.adobe.com/enterprise/get-started.html), [User Guide](https://helpx.adobe.com/enterprise/managing/user-guide.html) och lär dig hur du [skapar och hanterar supportärenden](https://helpx.adobe.com/enterprise/using/support-and-expert-services.html)
-1. Logga in på [Admin Console](https://adminconsole.adobe.com/) och validera att du har åtkomst
-1. Om du är systemadministratör ska du granska och validera supportanvändarna i din organisation för att se om de är korrekta (de här guidesidorna hjälper dig att: [Hantera användare](https://helpx.adobe.com/enterprise/using/users.html) och [hantera teamkonton](https://helpx.adobe.com/enterprise/using/accounts.html))
+### Tilldela administratörsrollen för support
+
+Supportadministratörsrollen är en icke-administrativ roll som har åtkomst till supportrelaterad information. Supportadministratörer kan visa, skapa och hantera problemrapporter.
+
+Om du vill tilldela administratörsrollen för support följer du instruktionerna [redigera administratörsrollen för företag](https://helpx.adobe.com/enterprise/using/admin-roles.html#add-admin-teams) i dokumentationen för administrativa roller. Observera att endast en systemadministratör för din organisation kan tilldela den här rollen. Mer information om administrativ hierarki finns i [dokumentationen för administrativa roller](https://helpx.adobe.com/enterprise/admin-guide.html/enterprise/using/admin-roles.ug.html).
+
+### Skapa en supportanmälan med Admin Console
+
+Om du vill skapa en biljett med [Admin Console](https://adminconsole.adobe.com/) väljer du fliken **[!UICONTROL Support]** i den övre navigeringen. Sidan [!UICONTROL Support Summary] visas. Välj sedan alternativet **[!UICONTROL Create Case]**.
+
+>[!TIP]
+>
+> Om du inte kan se alternativet **[!UICONTROL Create Case]** eller fliken **[!UICONTROL Support]** måste du kontakta en systemadministratör för att tilldela supportadministratörsrollen.
+
+![Admin Console supportflik](./assets/Support.png)
+
+En dialogruta visas där du kan välja en problemtyp. Välj den problemtyp som bäst beskriver problemet eller frågan och välj sedan **[!UICONTROL Create Case]** längst ned till höger.
+
+![Välj problem](./assets/select-case-type.png)
+
+Dialogrutan **[!UICONTROL Create Case ]** visas. Du ombeds att ange viss information, t.ex. produkt, prioritet, beskrivning och bifoga skärmdumpar för att beskriva problemet. Välj **[!UICONTROL Next]** om du vill fortsätta.
+
+![skapa ärende](./assets/create_case.png)
+
+>[!NOTE]
+>
+> Om problemet leder till driftavbrott eller mycket allvarliga avbrott i ett produktionssystem tillhandahålls ett telefonnummer för omedelbar hjälp.
+
+På nästa sida kan du fylla i kontaktinformation och ge Adobe kundsupport den bästa tiden att kontakta dig. När du är klar väljer du **[!UICONTROL Submit]** längst ned till höger och din biljett skickas till Adobe kundsupport.
+
+![Skicka biljett](./assets/submit_case.png)
 
 ## Hur är det med de gamla systemen?
 
-Nya biljetter/ärenden kan inte längre skickas in i äldre system från och med den 11 maj.  Admin [Console](https://adminconsole.adobe.com/) används för att skicka in nya biljetter/ärenden.
+Nya biljetter/ärenden kan inte längre skickas in i äldre system från och med den 11 maj.  [Admin Console](https://adminconsole.adobe.com/) kommer att användas för att skicka nya biljetter/ärenden.
 
 ### Befintliga biljetter/ärenden
 
@@ -39,7 +69,7 @@ Nya biljetter/ärenden kan inte längre skickas in i äldre system från och med
 
 ### Ärendehistorik
 
-En ärendehistorik visas för Adobes supportpersonal.  Om du behöver hjälp med ett stängt ärende, se Behöver du hjälp? nedan.
+Stängd ärendehistorik kommer att vara synligt för Adobe supportpersonal.  Om du behöver hjälp med ett stängt ärende, se Behöver du hjälp? nedan.
 
 ## Behöver du hjälp?
 
@@ -57,6 +87,6 @@ Kontakta oss genom att logga en biljett från [Experience League](https://experi
 
 ### Alternativ 2: Före 11 maj
 
-Före den 11 maj kan du fortfarande använda det äldre [Campaign Extranet](https://support.neolane.net/webApp/extranetLogin) eller [Experience Manager Daycare](https://daycare.day.com/home.html) -systemet.  Efter den 11 maj omdirigeras du till [Admin Console](https://adminconsole.adobe.com/) eftersom dessa system inte kommer att ta emot nya ärenden.
+Före den 11 maj kan du fortfarande använda de äldre [Campaign Extranet](https://support.neolane.net/webApp/extranetLogin) eller [Experience Manager Daycare](https://daycare.day.com/home.html)-ärendehanteringssystemen.  Efter den 11 maj kommer du att omdirigeras till [Admin Console](https://adminconsole.adobe.com/) eftersom dessa system inte kommer att ta emot nya fall.
 
 Om du har frågor om det här e-postmeddelandet kan du kontakta oss genom att logga en biljett från [Experience League](https://experienceleague.adobe.com/?support-solution=General#support).
