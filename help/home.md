@@ -5,18 +5,16 @@ description: Ny Adobe-upplevelse för kundsupport
 seo-description: Ny Adobe-upplevelse för kundsupport
 seo-title: Adobe Experience Cloud Customer One for Enterprise
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
-source-git-commit: 357138a560041a9832cfe8a4f61ec8724b73ba41
+source-git-commit: 4c8b47631dee3b3a4acb438dfe37ca336a8c99a8
 workflow-type: tm+mt
-source-wordcount: '785'
+source-wordcount: '768'
 ht-degree: 0%
 
 ---
 
-# Ny Adobe-upplevelse för kundsupport
+# Adobe Customer Support Experience
 
 ## Admin Console supportbiljetter
-
-Vi är glada över att kunna meddela att Adobe Customer Support Experience finns tillgänglig den 11 maj 2020!
 
 Supportbiljetter kan nu skickas via [Admin Console](https://adminconsole.adobe.com/). Instruktioner om hur du skickar in en supportanmälan finns i avsnittet [skicka en supportanmälan](#submit-ticket).
 
@@ -46,7 +44,7 @@ En dialogruta visas där du kan välja en problemtyp. Välj den problemtyp som b
 
 ![Välj problem](./assets/select-case-type.png)
 
-Dialogrutan **[!UICONTROL Create Case ]** visas. Du ombeds att ange viss information, t.ex. produkt, prioritet, beskrivning och bifoga skärmdumpar för att beskriva problemet. Välj **[!UICONTROL Next]** om du vill fortsätta.
+Dialogrutan **[!UICONTROL Create Case]** visas. Du ombeds att ange viss information, t.ex. produkt, prioritet, beskrivning och bifoga skärmdumpar för att beskriva problemet. Välj **[!UICONTROL Next]** om du vill fortsätta.
 
 ![skapa ärende](./assets/create_case.png)
 
