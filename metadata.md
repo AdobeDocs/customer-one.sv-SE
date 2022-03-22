@@ -1,18 +1,11 @@
 ---
 cloud: Experience Cloud
-solution-title: Läs mer & Support
-solution-hub-url: https://helpx.adobe.com/support/experience-cloud.html
-solution-image: help/assets/experience-cloud-logo-24.png
-getting-started-title: Komma igång
-getting-started-url: https://experienceleague.adobe.com/
-tutorials-title: Tutorials
-tutorials-url: https://experienceleague.adobe.com/
-git-repo: https://git.corp.adobe.com/AdobeDocs/customer-one.sv-SE
+solution: Experience Cloud
+git-repo: https://github.com/AdobeDocs/customer-one.sv-SE
 index: false
-translation-type: tm+mt
-source-git-commit: 50698f35a69ce3a34b41e54d6e38e05c35490351
+source-git-commit: 03a17fde256c9249664da170489d4ff8707fc5aa
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '111'
 ht-degree: 0%
 
 ---
