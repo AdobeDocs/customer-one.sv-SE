@@ -5,9 +5,9 @@ description: Ny Adobe-upplevelse för kundsupport
 seo-description: New Adobe Customer Support Experience
 seo-title: Adobe Experience Cloud Customer One for Enterprise
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
-source-git-commit: 22c446a683e21574c3db4b24879a1d072cdd5a3d
+source-git-commit: c08b51519488f37adc85b9686810726b8803dec8
 workflow-type: tm+mt
-source-wordcount: '639'
+source-wordcount: '648'
 ht-degree: 0%
 
 ---
@@ -24,14 +24,16 @@ Vi arbetar för att förbättra ditt sätt att interagera med Adobe kundsupport.
 
 Vi erbjuder ett antal onlinemöten där kunderna kan ställa frågor om den nya supportprocessen. Markera en eller flera att ansluta till:
 
-| Detalj | Dag | Datum | Registreringslänkar |
-|--- |--- |--- |--- |
-| [7 april 08 PT](https://event.on24.com/wcc/r/3723732/5288A3B031AD858BF241EB0C0057CD85) | Thours | 7 apr | <https://event.on24.com/wcc/r/3723732/5288A3B031AD858BF241EB0C0057CD85> |
-| [17 april PT](https://event.on24.com/wcc/r/3723733/286EFEA9E8D9B6BB49464862F5414B8C) | Thours | 7 apr | <https://event.on24.com/wcc/r/3723733/286EFEA9E8D9B6BB49464862F5414B8C> |
-| [20 april kl. 8.00 PT](https://event.on24.com/wcc/r/3712143/05DAF046E4BB864E7C313B056ADE4EB2) | Wed | 20 apr | <https://event.on24.com/wcc/r/3712143/05DAF046E4BB864E7C313B056ADE4EB2> |
-| [20 april kl. 17.00 PT](https://event.on24.com/wcc/r/3723740/A9EDA45FA61D3FFC4BF713419B677F16) | Wed | 20 feb | <https://event.on24.com/wcc/r/3723740/A9EDA45FA61D3FFC4BF713419B677F16> |
-| [21 april kl. 8.00 PT](https://event.on24.com/wcc/r/3723741/C7EBCD38583D4D7AFCBD56029EB17C98) | Thours | 21 apr | <https://event.on24.com/wcc/r/3723741/C7EBCD38583D4D7AFCBD56029EB17C98> |
-| [21 april kl. 17.00 PT](https://event.on24.com/wcc/r/3723743/6F41ED2648A621F1419A56F0A52F4446) | Thours | 21 apr | <https://event.on24.com/wcc/r/3723743/6F41ED2648A621F1419A56F0A52F4446> |
+| Datum och tid | Registreringslänk |
+|--- |--- |
+| Torsdag den 7 april kl. 8.00 PT | [Händelselänk](https://event.on24.com/wcc/r/3723732/5288A3B031AD858BF241EB0C0057CD85) |
+| Torsdag den 7 april 17:00 PT | [Händelselänk](https://event.on24.com/wcc/r/3723733/286EFEA9E8D9B6BB49464862F5414B8C) |
+| onsdag den 20 april kl. 8.00 PT | [Händelselänk](https://event.on24.com/wcc/r/3712143/05DAF046E4BB864E7C313B056ADE4EB2) |
+| onsdag den 20 april kl. 17.00 PT | [Händelselänk](https://event.on24.com/wcc/r/3723740/A9EDA45FA61D3FFC4BF713419B677F16) |
+| Torsdag den 21 april kl. 8.00 PT | [Händelselänk](https://event.on24.com/wcc/r/3723741/C7EBCD38583D4D7AFCBD56029EB17C98) |
+| Torsdag den 21 april kl. 17.00 PT | [Händelselänk](https://event.on24.com/wcc/r/3723743/6F41ED2648A621F1419A56F0A52F4446) |
+
+{style=&quot;table-layout:auto&quot;}
 
 ## Skicka in en supportanmälan för Admin Console {#submit-ticket}
 
