@@ -1,9 +1,9 @@
 ---
 title: Kontakta Adobe kundtjänst
 description: Information om hur du kontaktar Adobe kundtjänst för team, företag och Experience Cloud.
-source-git-commit: c0035e17cc1ca97ac511aff3515b7a8f7866f32d
+source-git-commit: 83d10df855395476b0bdbb640096dbe7eebf227c
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '133'
 ht-degree: 0%
 
 ---
@@ -21,16 +21,22 @@ Om du är osäker på din prenumerationsplan går du till **Fliken Support** på
 
 ![teambild](assets/team.png)
 
-[Läs mer](https://helpx.adobe.com/enterprise/using/support-for-teams.html)
+<!--
+[Learn more](https://helpx.adobe.com/enterprise/using/support-for-teams.html)
+-->
 
 ## För företagskonto
 
 ![teambild](assets/enterprise.png)
 
-[Läs mer](https://helpx.adobe.com/enterprise/using/support-for-enterprise.html)
+<!--
+[Learn more](https://helpx.adobe.com/enterprise/using/support-for-enterprise.html)
+-->
 
 ## För Experience Cloud
 
 ![teambild](assets/ec.png)
 
-[Läs mer](https://www.adobe.com/go/ac_ec_not_supported_en)
+<!--
+[Learn more](https://www.adobe.com/go/ac_ec_not_supported_en)
+-->
