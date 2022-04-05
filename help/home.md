@@ -5,9 +5,9 @@ description: Ny Adobe-upplevelse för kundsupport
 seo-description: New Adobe Customer Support Experience
 seo-title: Adobe Experience Cloud Customer One for Enterprise
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
-source-git-commit: c08b51519488f37adc85b9686810726b8803dec8
+source-git-commit: c0035e17cc1ca97ac511aff3515b7a8f7866f32d
 workflow-type: tm+mt
-source-wordcount: '648'
+source-wordcount: '630'
 ht-degree: 0%
 
 ---
@@ -37,13 +37,13 @@ Vi erbjuder ett antal onlinemöten där kunderna kan ställa frågor om den nya 
 
 ## Skicka in en supportanmälan för Admin Console {#submit-ticket}
 
-För att skicka in en supportanmälan i [Admin Console](https://adminconsole.adobe.com/)måste du ha administratörsrollen Support tilldelad av en systemadministratör. Endast en systemadministratör i din organisation kan tilldela den här rollen. Produkt, produktprofil och andra administrativa roller kan inte tilldela supportadministratörsrollen och kan inte visa **[!UICONTROL Create Case]** det alternativ som användes för att skicka in en supportanmälan. Mer information finns på [företag och team kundtjänst](https://helpx.adobe.com/enterprise/using/support-and-expert-services.html) dokumentation.
+För att skicka in en supportanmälan i [Admin Console](https://adminconsole.adobe.com/)måste du ha administratörsrollen Support tilldelad av en systemadministratör. Endast en systemadministratör i din organisation kan tilldela den här rollen. Produkt, produktprofil och andra administrativa roller kan inte tilldela supportadministratörsrollen och kan inte visa **[!UICONTROL Create Case]** det alternativ som användes för att skicka in en supportanmälan. Mer information finns på [företag och team kundtjänst](customer-care.md) dokumentation.
 
 ### Tilldela administratörsrollen för support
 
 Supportadministratörsrollen är en icke-administrativ roll som har åtkomst till supportrelaterad information. Supportadministratörer kan visa, skapa och hantera problemrapporter.
 
-Om du vill tilldela administratörsrollen för support följer du [redigera företagsadministratörsroll](https://helpx.adobe.com/enterprise/using/admin-roles.html#add-admin-teams) anvisningar i dokumentationen för administrativa roller. Observera att endast en systemadministratör för din organisation kan tilldela den här rollen. Mer information om administrativ hierarki finns på [administrativa roller](https://helpx.adobe.com/enterprise/admin-guide.html/enterprise/using/admin-roles.ug.html) dokumentation.
+Om du vill tilldela administratörsrollen för support följer du [redigera företagsadministratörsroll](admin-roles.md#add-admin-teams) anvisningar i dokumentationen för administrativa roller. Observera att endast en systemadministratör för din organisation kan tilldela den här rollen. Mer information om administrativ hierarki finns på [administrativa roller](admin-roles.md) dokumentation.
 
 ### Skapa en supportanmälan med Admin Console
 
