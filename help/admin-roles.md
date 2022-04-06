@@ -1,13 +1,13 @@
 ---
 title: Administrativa roller
 description: Med Adobe Admin Console kan man definiera en flexibel administrativ hierarki som detaljerat kan hantera åtkomst och användning av Adobe.
-source-git-commit: c0035e17cc1ca97ac511aff3515b7a8f7866f32d
+exl-id: bfee66b5-d7bb-4ecb-8d22-efb68611ecc8
+source-git-commit: 6fcd91d09ffc23047b2fb332af256ab7706355cd
 workflow-type: tm+mt
-source-wordcount: '1639'
+source-wordcount: '1640'
 ht-degree: 0%
 
 ---
-
 
 # Administrativa roller
 
@@ -45,7 +45,7 @@ _Hierarki för administratörsroller_
 
 En detaljerad lista över behörigheter för varje administratörsroll finns i [Behörigheter](#enterprise-admins-permissions-matrix).
 
-## Lägg till en företagsadministratör
+## Lägg till en företagsadministratörsroll {#add-enterprise-role}
 
 Gäller för: Adobe företagskunder.
 

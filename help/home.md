@@ -5,7 +5,7 @@ description: Ny Adobe-upplevelse för kundsupport
 seo-description: New Adobe Customer Support Experience
 seo-title: Adobe Experience Cloud Customer One for Enterprise
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
-source-git-commit: c0035e17cc1ca97ac511aff3515b7a8f7866f32d
+source-git-commit: 6fcd91d09ffc23047b2fb332af256ab7706355cd
 workflow-type: tm+mt
 source-wordcount: '630'
 ht-degree: 0%
@@ -43,7 +43,7 @@ För att skicka in en supportanmälan i [Admin Console](https://adminconsole.ado
 
 Supportadministratörsrollen är en icke-administrativ roll som har åtkomst till supportrelaterad information. Supportadministratörer kan visa, skapa och hantera problemrapporter.
 
-Om du vill tilldela administratörsrollen för support följer du [redigera företagsadministratörsroll](admin-roles.md#add-admin-teams) anvisningar i dokumentationen för administrativa roller. Observera att endast en systemadministratör för din organisation kan tilldela den här rollen. Mer information om administrativ hierarki finns på [administrativa roller](admin-roles.md) dokumentation.
+Om du vill tilldela administratörsrollen för support följer du [redigera företagsadministratörsroll](admin-roles.md#add-enterprise-role) anvisningar i dokumentationen för administrativa roller. Observera att endast en systemadministratör för din organisation kan tilldela den här rollen. Mer information om administrativ hierarki finns på [administrativa roller](admin-roles.md) dokumentation.
 
 ### Skapa en supportanmälan med Admin Console
 
