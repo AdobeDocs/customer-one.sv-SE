@@ -1,0 +1,36 @@
+---
+keywords: Workfront support;skicka supportanmälan;kundsupport
+title: Adobe Workfront supportöversikt
+description: Adobe Workfront går med i Adobe Admin Console Platform.
+source-git-commit: be82f76b3b7ce7ba38dea1b8e9816fedccd30e8f
+workflow-type: tm+mt
+source-wordcount: '238'
+ht-degree: 0%
+
+---
+
+# Adobe Workfront supportöversikt
+
+Adobe Workfront går med i Adobe Admin Console Platform.
+
+Under de närmaste månaderna kommer kunderna att kontaktas för att samordna en migrering till Adobe Identity och Admin Console, en ännu säkrare och mer funktionell systemadministrationskonsol. Här är några fördelar med den kommande förändringen:
+
+* Autentisera till Workfront och andra produkter med en enda Adobe-identitet.
+* Hantera användarrättigheter separat mellan produktions- och sandlådemiljöer eller förhandsvisningsmiljöer.
+* Använd flera SSO-konfigurationer för Workfront-användare.
+* Hantera berättiganden för Workfront på samma sätt som för andra Adobe-produkter.
+
+Om du vill ha en ingående granskning av Adobe Identity och Admin Console kan du referera till detta [supportsida](https://helpx.adobe.com/enterprise/admin-guide.html). Det finns också en jämförelse mellan den aktuella Workfront-konsolen och den nya Adobe-konsolen [här](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FAdministration_and_Setup%2FGet_started-WF_administration%2Factions-in-admin-console.htm&amp;_LANG=enus).
+
+<!--
+New URL for July 27:
+https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/get-started-administration/actions-in-admin-console.html
+-->
+
+Det finns dessutom frågor och svar att referera till [här](faq.md).
+
+## Information om kundmigrering
+
+Befintliga kunder kommer att kontaktas för att planera in migreringar från och med juli 2022.  Våra migreringsteam hjälper sina kunder genom processen, ger råd om konfigurationen av konsolen och tillhandahåller länkar till dokumentation som behövs för att göra flytten så enkel och krångelfri som möjligt.
+
+Nya Net-kunder som börjar i juli 2022 placeras automatiskt på Adobe Admin Console och kräver inga ytterligare åtgärder.
