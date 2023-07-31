@@ -5,9 +5,9 @@ description: Ny Adobe-upplevelse för kundsupport
 seo-description: New Adobe Customer Support Experience
 seo-title: Adobe Experience Cloud Customer One for Enterprise
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
-source-git-commit: 79bb048c2aa379a7ec455dbdbcd9b6406f047f3c
+source-git-commit: 54cf27e25fdbd18c9ef3fbc2d606e9005fc5025e
 workflow-type: tm+mt
-source-wordcount: '657'
+source-wordcount: '699'
 ht-degree: 0%
 
 ---
@@ -60,6 +60,10 @@ Användaren får en e-postinbjudan om de nya administratörsbehörigheterna frå
 Användarna måste klicka **Kom igång** i e-postmeddelandet för att gå med i organisationen. Om nya administratörer inte använder **Kom igång** i e-postinbjudan skulle de inte kunna logga in på Admin Console.
 
 Som en del av inloggningsprocessen kan användare uppmanas att konfigurera en Adobe-profil om de inte redan har en. Om användarna har flera profiler som är kopplade till sin e-postadress måste användarna välja **Gå med i teamet** (om du uppmanas att göra det) och välj sedan den profil som är associerad med den nya organisationen.
+
+![Bekräftelse av administratörsbehörighet](assets/admin-rights-confirmation.png)
+
+Mer information finns i [redigera företagsadministratörsroll](admin-roles.md#add-enterprise-role) anvisningar i dokumentationen för administrativa roller. Observera att endast en systemadministratör för din organisation kan tilldela den här rollen. Mer information om administrativ hierarki finns på [administrativa roller](admin-roles.md) dokumentation.
 
 ### Skapa en supportanmälan med Admin Console
 
