@@ -5,9 +5,9 @@ description: Ny Adobe-upplevelse för kundsupport
 seo-description: New Adobe Customer Support Experience
 seo-title: Adobe Experience Cloud Customer One for Enterprise
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
-source-git-commit: 54cf27e25fdbd18c9ef3fbc2d606e9005fc5025e
+source-git-commit: 21d5995ce2529a47e1691ce152cf3da7cd978890
 workflow-type: tm+mt
-source-wordcount: '699'
+source-wordcount: '702'
 ht-degree: 0%
 
 ---
@@ -48,8 +48,8 @@ Så här tilldelar du en supportadministratörsroll till en användare (gör det
 
 1. Välj något av följande två alternativ:
 
-   * Alternativ 1: **[!UICONTROL Basic support administrator]**. Välj det här alternativet om du vill ge användarsupporten åtkomst till alla lösningar (förutom Marketo).
-   * Alternativ 2: **[!UICONTROL Product support administrator]**: Välj det här alternativet för Marketo support. Välj vilka Marketo-instanser som ska ge användarsupporten åtkomst.
+   * Alternativ 1: **[!UICONTROL Basic support administrator]**. Välj det här alternativet om du vill ge användarsupporten åtkomst till alla lösningar (utom Marketo Engage).
+   * Alternativ 2: **[!UICONTROL Product support administrator]**: Välj det här alternativet om du vill ha stöd för Marketo Engage. Välj vilka Marketo Engage-instanser som ska ge användaren support åtkomst.
 
    ![Redigera administratörsrättigheter Marketo](assets/edit-admin-rights-advanced.png)
 
