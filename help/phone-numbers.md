@@ -1,0 +1,34 @@
+---
+title: Ange ett telefonnummer för önskad support
+description: Uppdatera för telefonnummer till supporten för Adobe. Ange ditt telefonnummer till supporten.
+exl-id: 59017843-5989-4618-b7a6-6333bf9ccef4
+source-git-commit: 3f163bffd6f1bf19e8c58688b9068d9ce6aeab0d
+workflow-type: tm+mt
+source-wordcount: '168'
+ht-degree: 0%
+
+---
+
+# Ange ett telefonnummer för önskad support
+
+När du tilldelas en &#39;Admin&#39;-roll, till exempel &#39;Product Support Admin&#39;, bör du få ett e-postmeddelande som informerar dig om att du har &#39;Administrator&#39;-behörighet att hantera instansen som du har fått administratörsbehörighet för.
+
+E-postmeddelandet innehåller nu texten nedan i rött som förklarar hur du går till din kontoprofil och delar med oss ditt telefonnummer till supporten.
+
+![supporttelefon](assets/admin-console-1.png)
+
+Så här anger du ditt telefonnummer:
+
+1. Klicka på **Kontoprofil** länk för att öppna ett nytt fönster för att logga in med `account.adobe.com`.
+
+   ![logga in](assets/sign-in.png)
+
+1. Gå igenom inloggningsprocessen och landa på skärmen nedan `account.adobe.com`.
+1. Klicka sedan på flikarna Konto och säkerhet > Konto för att se fältet Telefonnummer till supporten.
+1. Lägg till ett telefonnummer här som du vill att vi ska använda för att identifiera dig för dina supportbehov.
+
+![ange detaljer](assets/account-info.png)
+
+![lägg till telefonnummer](assets/enter-phone-number.png)
+
+![resultat](assets/result.png)
