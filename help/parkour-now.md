@@ -1,12 +1,12 @@
 ---
 title: Ny Adobe-upplevelse för kundsupport
-description: Kundkommunikation för en ny supportupplevelse
+description: Kundkommunikation för nya supporttillfällen
 hide: true
 hidefromtoc: true
 exl-id: 6d0653a9-3a2a-4747-b8ec-bea48597cf01
 source-git-commit: 03a17fde256c9249664da170489d4ff8707fc5aa
 workflow-type: tm+mt
-source-wordcount: '453'
+source-wordcount: '450'
 ht-degree: 0%
 
 ---
@@ -21,14 +21,14 @@ Vi kommer att fortsätta att lämna mer information till din organisation när v
 
 Under februari och mars 2022 kommer Adobe att skapa både de nya systemadministratörerna för support och kundsupportadministratörerna i den här portalen.
 
-* Om våra noteringar visar att du för närvarande fungerar som systemadministratör för support i Adobe Admin Console - eller - anges ditt namn som kundkontakt hos Adobe i din organisation i inköpsavtalet, kommer du att konfigureras som **Supportsystemadministratör** för er organisation.
-* Om det framgår av våra uppgifter att du tidigare har begärt kundsupport från Adobe kommer du att konfigureras som **Kundsupportadministratör**.
+* Om våra noteringar visar att du för närvarande fungerar som systemadministratör för support i Adobe Admin Console - eller - visas ditt namn som kundkontakt hos Adobe i din organisation i inköpsavtalet, kommer du att konfigureras som **systemadministratör för support** för din organisation.
+* Om våra noteringar visar att du tidigare har begärt kundsupport från Adobe, kommer du att konfigureras som **kundsupportadministratör**.
 
 Supportsystemadministratörer och kundsupportadministratörer ser systemgenererade e-postmeddelanden när supportanvändare skapas i Admin Console. Båda dessa användarroller kan:
 
 * Utnyttja ärendehanteringsverktygen som gör det enklare att hantera supportärenden med Adobe kundsupport
 * Starta enkelt chattsamtal med Adobe kundsupport för Adobe Analytics
-* Få bättre synlighet i servicehistoriken
+* Få bättre synlighet i din servicehistorik
 * Bläddra bland populära hjälpavsnitt och forum.
 
 Dessutom kan systemadministratörer för support:
@@ -47,7 +47,7 @@ Dessutom kan systemadministratörer för support:
 >
 >I det här skedet är portalen ännu inte aktiv för att skicka supportärenden.
 
-**April 2022 - aktivering**
+**April 2022 - Aktivera**
 
 * Utbildningsmaterial kommer att tillhandahållas alla portalsystemanvändare
 * Systemadministratör/utsedda kontakter som slutför konfiguration av supportanvändare och roller

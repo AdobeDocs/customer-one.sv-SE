@@ -6,14 +6,14 @@ hidefromtoc: true
 exl-id: bf78dd9e-a47e-4251-8b47-795032a7a673
 source-git-commit: 03a17fde256c9249664da170489d4ff8707fc5aa
 workflow-type: tm+mt
-source-wordcount: '389'
+source-wordcount: '390'
 ht-degree: 0%
 
 ---
 
 # Ny Adobe-upplevelse för kundsupport
 
-Vi bryr oss om våra kunder och arbetar för att göra det enklare att få hjälp från Adobe kundsupport när våra kunder behöver hjälp, till exempel Adobe Experience Manager- och Campaign-produkter. Vår vision är att effektivisera supportupplevelsen genom att gå över till en modern ingångsportal, Adobe Admin Console supportportal. Vi planerar att införa dessa förändringar i maj 2020. När ni är klara kommer ni att kunna kontakta Adobe kundsupport; få bättre synlighet i servicehistoriken via en gemensam ingångsportal, och begär hjälp via telefon, webb och chatt via en enda portal.
+Vi bryr oss om våra kunder och arbetar för att göra det enklare att få hjälp från Adobe kundsupport när våra kunder behöver hjälp, till exempel Adobe Experience Manager- och Campaign-produkter. Vår vision är att effektivisera supportupplevelsen genom att gå över till en modern ingångsportal, Adobe Admin Console supportportal. Vi planerar att införa dessa förändringar i maj 2020. När du är klar kommer din organisation att kunna få tillgång till kundsupport på Adobe, få bättre insyn i servicehistoriken via en gemensam ingångsportal och begära hjälp via telefon, webben och chatt via en enda portal.
 
 ## Mer information
 
@@ -28,7 +28,7 @@ Supportsystemadministratörer fungerar som superanvändare i Admin Console och s
 
 ### Februari - användarkonfiguration
 
-* Adobe för att inrätta en känd systemadministratör, Kontraktskontakter och kända supportanvändare i ett nytt system
+* Adobe för att konfigurera en känd systemadministratör; Kontraktskontakter och kända supportanvändare i ett nytt system
 * Skickade systemgenererade e-postmeddelanden - användarna har konfigurerat och systemet är öppet för att endast kunna skapa/validera användare
 
 
@@ -46,4 +46,4 @@ Supportsystemadministratörer fungerar som superanvändare i Admin Console och s
 * Adobe för att lansera ett nytt system
 * Kunderna börjar använda nya system
 
-Om du har frågor om det här mejlet kan du kontakta oss på [customercare@adobe.com](mailto:customercare@adobe.com).
+Om du har frågor om det här e-postmeddelandet kan du kontakta oss på [customercare@adobe.com](mailto:customercare@adobe.com).

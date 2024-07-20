@@ -2,9 +2,10 @@
 keywords: Workfront support;skicka supportanmälan;kundsupport
 title: Adobe Workfront supportöversikt
 description: Adobe Workfront går med i Adobe Admin Console Platform.
-source-git-commit: be82f76b3b7ce7ba38dea1b8e9816fedccd30e8f
+exl-id: 00740005-270b-4ff7-afcb-4d5fa161cc32
+source-git-commit: ac7d548a774a1eecbdcd0c87ba3f9b33c3bbda0e
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '221'
 ht-degree: 0%
 
 ---
@@ -20,17 +21,17 @@ Under de närmaste månaderna kommer kunderna att kontaktas för att samordna en
 * Använd flera SSO-konfigurationer för Workfront-användare.
 * Hantera berättiganden för Workfront på samma sätt som för andra Adobe-produkter.
 
-Om du vill ha en ingående granskning av Adobe Identity och Admin Console kan du referera till detta [supportsida](https://helpx.adobe.com/enterprise/admin-guide.html). Det finns också en jämförelse mellan den aktuella Workfront-konsolen och den nya Adobe-konsolen [här](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FAdministration_and_Setup%2FGet_started-WF_administration%2Factions-in-admin-console.htm&amp;_LANG=enus).
+Om du vill ha en ingående granskning av Adobe Identity och Admin Console kan du referera till den här [supportsidan](https://helpx.adobe.com/enterprise/admin-guide.html). Det finns också en jämförelse mellan den aktuella Workfront-konsolen och den nya Adobe-konsolen [här](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FAdministration_and_Setup%2FGet_started-WF_administration%2Factions-in-admin-console.htm&amp;_LANG=enus).
 
 <!--
 New URL for July 27:
 https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/get-started-administration/actions-in-admin-console.html
 -->
 
-Det finns dessutom frågor och svar att referera till [här](faq.md).
+Dessutom finns det en FAQ tillgänglig för referens [här](faq.md).
 
 ## Information om kundmigrering
 
-Befintliga kunder kommer att kontaktas för att planera in migreringar från och med juli 2022.  Våra migreringsteam hjälper sina kunder genom processen, ger råd om konfigurationen av konsolen och tillhandahåller länkar till dokumentation som behövs för att göra flytten så enkel och krångelfri som möjligt.
+Befintliga kunder kommer att kontaktas för att boka migreringar från juli 2022.  Våra migreringsteam hjälper sina kunder genom processen, ger råd om konfigurationen av konsolen och tillhandahåller länkar till dokumentation som behövs för att göra flytten så enkel och krångelfri som möjligt.
 
 Nya Net-kunder som börjar i juli 2022 placeras automatiskt på Adobe Admin Console och kräver inga ytterligare åtgärder.

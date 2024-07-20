@@ -2,22 +2,23 @@
 keywords: Vanliga frågor och svar;Vanliga frågor
 title: Adobe Business Platform & Admin Console - frågor och svar
 description: Frågor och svar om Adobe Workfront
-source-git-commit: 80b615a98325b1dda41b2cff3cee14f8282b9cf9
+exl-id: a0e9f153-bb2d-4077-a957-bf6bfcb44dfd
+source-git-commit: ac7d548a774a1eecbdcd0c87ba3f9b33c3bbda0e
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '496'
 ht-degree: 0%
 
 ---
 
 # Adobe Business Platform &amp; Admin Console - frågor och svar
 
-+++**Vad är Adobe Identity och Admin Console?**
++++**Vad är Adobe-identitet och Admin Console?**
 
-Adobe Business Platform ger administratörer och funktionalitet en toppmodern kontrollkonsol för att hantera sin anpassade version av Workfront.
+Adobe Business Platform ger administratörer och funktionalitet en toppmodern kontrollkonsol för att hantera sin anpassade version av Workfront-programmet.
 
 +++
 
-+++**Varför måste man gå över till Adobe Identity och Admin Console (AAC)?**
++++**Varför måste kunderna gå över till Adobe Identity och Admin Console (AAC)?**
 
 Kunderna får en ännu säkrare och mer intuitiv administrationskonsol genom att gå över till Adobe Business Platform.
 
@@ -37,13 +38,13 @@ En organisation är den enhet som gör det möjligt för en administratör att k
 
 +++
 
-+++**Hur kommer kunderna att gå över till AAC?**
++++**Hur flyttar sig kunderna till AAC?**
 
 Kunderna kommer att flyttas av Adobe Workfront supportteam med hjälp i realtid och kodning för att säkerställa att övergången blir smidig och att allmänna kundfrågor besvaras.
 
 +++
 
-+++**Hur går det med att gå över till AAC från en befintlig Workfront-arkitektur?**
++++**Hur går det att gå över till AAC från en befintlig Workfront-arkitektur?**
 
 Kunderna får instruktioner och samordning från ett internt Workfront-team som ska hjälpa kunderna med flytten.
 
@@ -51,13 +52,13 @@ Kunderna får instruktioner och samordning från ett internt Workfront-team som 
 
 +++**Vilka nya funktioner finns i AAC som inte är tillgängliga för kunder i Workfront?**
 
-Se [det här dokumentet](overview.md) markera några av de nya funktioner som är tillgängliga.
+Se [det här dokumentet](overview.md) där några av de nya funktionerna som finns tillgängliga markeras.
 
 +++
 
 +++**Vilka utbildningsresurser finns för AAC?**
 
-&lt;https://helpx.adobe.com/se/enterprise/using/admin-console.html >
+&lt;https://helpx.adobe.com/enterprise/using/admin-console.html>
 
 +++
 
@@ -67,7 +68,7 @@ JA.
 
 +++
 
-+++**Kommer övergången till AAC att konsolidera administrativa konsoler om en kund har andra produkter i Adobe-sviten?**
++++**Går det att gå över till AAC och konsolidera administrativa konsoler om en kund har andra produkter i Adobe-sviten?**
 
 Ja! Administrationskonsolen är identisk i hela Adobe och ger administratörer en plattform att använda Workfront och nästan alla andra Adobe-produkter.
 

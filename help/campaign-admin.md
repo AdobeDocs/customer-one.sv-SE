@@ -1,11 +1,11 @@
 ---
-title: '"[!DNL Campaign] - Ny supportupplevelse kommer"'
+title: "[!DNL Campaign] - Ny supportupplevelse kommer"
 seo-title: Adobe Campaign - New enterprise support experience is coming
 description: Adobe Campaign - En ny Enterprise Support-upplevelse är på väg
 seo-description: Adobe Campaign - New enterprise support experience is coming
 source-git-commit: abf43d94c879d6cafaede13324225a8a1f91a6e9
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '242'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 **21 oktober 2019**
 
-Vi arbetar på några viktiga förbättringar av supportupplevelsen för våra Adobe Campaign-kunder. Dessa ändringar *som vi planerar att lansera i april/maj 2020*, ger din organisation åtkomst [!DNL Adobe Customer Support] och ge bättre insyn i servicehistoriken via en gemensam ingångsportal.
+Vi arbetar på några viktiga förbättringar av supportupplevelsen för våra Adobe Campaign-kunder. Dessa ändringar, *som vi planerar att lansera i april/maj 2020*, ger din organisation åtkomst till [!DNL Adobe Customer Support] och ger en bättre synlighet i din servicehistorik via en gemensam ingångsportal.
 
 Vi kommer att fortsätta att lämna mer information till din organisation när vi kommer närmare utrullningen.
 
@@ -23,7 +23,7 @@ För att komma igång behöver vi din hjälp med att bekräfta vem som ska vara 
 
 ## ÅTGÄRD: Bekräfta systemadministratören (systemadministratör)
 
-Enligt våra noteringar är du en **systemadministratör inom din organisation**, den som ansvarar för att hantera och skicka in supportförfrågningar för dessa Adobe-produkter.
+Enligt våra noteringar är du **utsedd systemadministratör inom din organisation**, den person som ansvarar för att hantera och skicka supportförfrågningar för dessa Adobe-produkter.
 
 Som systemadministratör har du tillgång till [!DNL Adobe Admin Console Support Portal] som gör att du kan:
 
@@ -33,12 +33,12 @@ Som systemadministratör har du tillgång till [!DNL Adobe Admin Console Support
 
 >[!NOTE]
 >
->Bekräfta att du accepterar den här rollen (eller tillhandahåller en alternativ kontaktpunkt) som din organisations systemadministratör för Adobe Campaign-produkter av **fylla i och skicka [[!DNL System Admin Confirmation Form]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=SSSVH6) senast 4 november 2019**.
+>Bekräfta att du accepterar den här rollen (eller tillhandahåller en alternativ kontaktpunkt) som din organisations systemadministratör för Adobe Campaign-produkter genom att **slutföra och skicka [[!DNL System Admin Confirmation Form]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=SSSVH6) senast 4 november 2019**.
 >
 >Genom att fylla i det här formuläret ser du till att rätt autentiseringsuppgifter tilldelas den systemadministratör som har utsetts av din organisation.
 
-En e-postbekräftelse skickas när vi har tagit emot [!DNL System Admin Confirmation Form].
+En e-postbekräftelse skickas när [!DNL System Admin Confirmation Form] tas emot.
 
-Om du har frågor om det här mejlet kan du kontakta oss på customercare@adobe.com.
+Kontakta oss på customercare@adobe.com om du har frågor om det här mejlet.
 
 Vänliga hälsningar och tack för din hjälp.
