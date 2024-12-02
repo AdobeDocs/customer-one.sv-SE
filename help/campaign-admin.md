@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Campaign] - Ny supportupplevelse kommer"
+title: '[!DNL Campaign] - Ny supportupplevelse kommer'
 seo-title: Adobe Campaign - New enterprise support experience is coming
 description: Adobe Campaign - En ny Enterprise Support-upplevelse är på väg
 seo-description: Adobe Campaign - New enterprise support experience is coming
