@@ -1,11 +1,11 @@
 ---
-keywords: Stöd för Experience Platform;plattformar;stöd för intelligenta tjänster; kundsupport; attribueringssupport; support för rtcdp; supportanmälan;kundsupport
+keywords: Experience Platform support;plattformsstöd;stöd för intelligenta tjänster; kundsupport; attribueringssupport; rtcdp-support; skicka supportanmälan;kundsupport
 title: Adobe Experience Cloud Customer One for Enterprise
-description: Ny Adobe-upplevelse för kundsupport
+description: Ny Adobe Customer Support Experience
 seo-description: New Adobe Customer Support Experience
 seo-title: Adobe Experience Cloud Customer One for Enterprise
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
-source-git-commit: 79858d43281431431b980c71ee3b09f99b445c62
+source-git-commit: fda1336b2f33056351984c2ae3dc2059c80ec61d
 workflow-type: tm+mt
 source-wordcount: '834'
 ht-degree: 0%
@@ -16,17 +16,17 @@ ht-degree: 0%
 
 ## Experience League supportbiljetter
 
-Supportärenden skickas nu via [Experience League](https://experienceleague.adobe.com/home?lang=sv-SE#support). Instruktioner om hur du skickar en supportanmälan finns i avsnittet om att [skicka en supportanmälan](#submit-ticket).
+Supportärenden skickas nu via [Experience League](https://experienceleague.adobe.com/home#support). Instruktioner om hur du skickar en supportanmälan finns i avsnittet om att [skicka en supportanmälan](#create-a-support-ticket-with-experience-league).
 
-Vi arbetar för att förbättra ditt sätt att interagera med Adobe kundsupport. Vår vision är att effektivisera supportupplevelsen genom att gå över till en enda ingång med Experience League. När du är klar kommer din organisation enkelt att få tillgång till kundsupport på Adobe, få bättre insyn i servicehistoriken via ett gemensamt system för alla produkter samt begära hjälp via telefon, webben och chatt via en enda portal.
+Vi arbetar för att förbättra ditt sätt att interagera med Adobe kundsupport. Vår vision är att effektivisera supportarbetet genom att gå över till en enda ingång med Experience League. När du är klar kommer din organisation enkelt att få tillgång till Adobe kundsupport, få bättre insyn i servicehistoriken via ett gemensamt system för alla produkter samt begära hjälp via telefon, webben och chatt via en enda portal.
 
-Om du är Adobe Commerce-användare läser du [Skicka ett supportärende](https://experienceleague.adobe.com/sv/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case) i användarhandboken för Experience League Support för Adobe Commerce.
+Om du är Adobe Commerce-användare läser du [Skicka ett supportärende](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case) i Experience League Support-användarhandboken för Adobe Commerce.
 
 ## Supportberättigade roller som krävs för att skicka in ärendet {#submit-ticket}
 
-Om du vill skicka in en supportanmälan i [Experience League](https://experienceleague.adobe.com/home?lang=sv-SE#support) måste du ha tilldelats rollen som supportadministratör av en systemadministratör. Endast en systemadministratör i din organisation kan tilldela den här rollen. Produkt, produktprofil och andra administrativa roller kan inte tilldela supportadministratörsrollen och kan inte visa alternativet **[!UICONTROL Create Case]** som används för att skicka ett supportärende. Mer information om de olika typerna av administratörsroller och deras rättigheter finns i [Administratörsroller](admin-roles.md).
+Om du vill skicka in en supportanmälan i [Experience League](https://experienceleague.adobe.com/home#support) måste du ha rollen som supportadministratör tilldelad av en systemadministratör. Endast en systemadministratör i din organisation kan tilldela den här rollen. Produkt, produktprofil och andra administrativa roller kan inte tilldela supportadministratörsrollen och kan inte visa alternativet **[!UICONTROL Create Case]** som används för att skicka ett supportärende. Mer information om de olika typerna av administratörsroller och deras rättigheter finns i [Administratörsroller](admin-roles.md).
 
-Om du använder Commerce är processen för att dela åtkomst till arbetet med supportärenden annorlunda. Mer information finns i [Delad åtkomst: ge andra användare behörighet att komma åt ditt konto](https://experienceleague.adobe.com/sv/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#shared-access) i användarhandboken för Experience League Support för Adobe Commerce.
+Om du använder Commerce är processen för att dela åtkomst till arbetet med supportärenden annorlunda. Mer information finns i [Delad åtkomst: ge andra användare behörighet att komma åt ditt konto](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#shared-access) i Experience League Support-användarhandboken för Adobe Commerce.
 
 ### Lägga till support berättigar roller till en organisation
 
@@ -52,8 +52,8 @@ Så här tilldelar du en supportadministratörsroll till en användare (gör det
 
 1. Välj något av följande två alternativ:
 
-   * Alternativ 1: **[!UICONTROL Basic support administrator]**. Välj det här alternativet om du vill ge användarsupporten åtkomst till alla lösningar (utom Marketo Engage).
-   * Alternativ 2: **[!UICONTROL Product support administrator]**: Välj det här alternativet om du vill ha stöd för Marketo Engage. Välj vilka Marketo Engage-instanser som ska ge användaren support åtkomst.
+   * Alternativ 1: **[!UICONTROL Basic support administrator]**. Välj det här alternativet om du vill ge användarsupporten åtkomst till alla lösningar (förutom Marketo Engage).
+   * Alternativ 2: **[!UICONTROL Product support administrator]**: Välj det här alternativet för Marketo Engage support. Välj vilka Marketo Engage-instanser som ska ge användarsupporten åtkomst.
 
    ![Redigera administratörsrättigheter för Marketo](assets/edit-admin-rights-advanced.png)
 
@@ -73,11 +73,11 @@ Mer information finns i anvisningarna för [Redigera företagsadministratörsrol
 
 Processen för att skicka in supportärenden är nu direkt integrerad med Experience League supportplattform. Det här är en självbetjäningsportal som nyligen har gjorts om för att erbjuda mer personalisering och användarvänlighet för berättigade kunder.
 
-1. Om du vill skapa en biljett med [Experience League](https://experienceleague.adobe.com/home?lang=sv-SE#support) väljer du fliken **[!UICONTROL Support]** i den övre navigeringen.
+1. Om du vill skapa en biljett med [Experience League](https://experienceleague.adobe.com/home#support) väljer du fliken **[!UICONTROL Support]** i den övre navigeringen.
    ![Fliken Stöd för Experience Leag](./assets/experience-league-support-tab.png)
 1. På supportwebbplatsen kan du enkelt navigera till öppna supportärenden, logga ett nytt ärende, visa de viktigaste supportartiklarna eller få tillgång till ytterligare utbildningsmaterial.
    ![Experience Leag - supportresurser](./assets/experience-league-support-resources.png)
-1. Välj **[!UICONTROL Open a support ticket]** om du vill skicka ett ärende. Välj även alternativet **[!UICONTROL Open Ticket]** på sidofältsmenyn. Du dirigeras till sidan för att skapa ärenden där du kan ange ditt produktnamn (Audience Manager, Campaign, Target, osv.), falltitel och fallbeskrivning. Om du vill snabba upp felsökningsprocessen bör du vara så beskrivande som möjligt när du beskriver det problem du står inför.
+1. Välj **[!UICONTROL Open a support ticket]** om du vill skicka ett ärende. Välj även alternativet **[!UICONTROL Open Ticket]** på sidofältsmenyn. Du dirigeras till sidan där du kan ange ditt produktnamn (Audience Manager, Campaign, Target osv.), falltitel och fallbeskrivning. Om du vill snabba upp felsökningsprocessen bör du vara så beskrivande som möjligt när du beskriver det problem du står inför.
    ![Öppen biljett för Experience Leag](./assets/experience-league-open-ticket.png)
 1. Fyll i följande fält mot formulärets slut. När du väljer en lösning får du följande frågor och en del lösningar har ytterligare fält:
 
