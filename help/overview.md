@@ -21,7 +21,7 @@ Under de närmaste månaderna kommer kunderna att kontaktas för att samordna en
 * Använd flera SSO-konfigurationer för Workfront-användare.
 * Hantera berättiganden för Workfront på samma sätt som för andra Adobe-produkter.
 
-Om du vill ha en ingående granskning av Adobe Identity och Admin Console kan du referera till den här [supportsidan](https://helpx.adobe.com/se/enterprise/admin-guide.html). Det finns också en jämförelse mellan den aktuella Workfront-konsolen och den nya Adobe-konsolen [här](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FAdministration_and_Setup%2FGet_started-WF_administration%2Factions-in-admin-console.htm&amp;_LANG=enus).
+Om du vill ha en ingående granskning av Adobe Identity och Admin Console kan du referera till den här [supportsidan](https://helpx.adobe.com/se/enterprise/admin-guide.html). Det finns också en jämförelse mellan den aktuella Workfront-konsolen och den nya Adobe-konsolen [här](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FAdministration_and_Setup%2FGet_started-WF_administration%2Factions-in-admin-console.htm&_LANG=enus).
 
 <!--
 New URL for July 27:
