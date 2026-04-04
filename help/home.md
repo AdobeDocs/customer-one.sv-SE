@@ -73,7 +73,7 @@ Mer information finns i anvisningarna för [Redigera företagsadministratörsrol
 
 >[!NOTE]
 >
-> Innan du skickar in en supportanmälan bör du överväga att kontrollera Adobe systemprestanda, tillgänglighet och lösningsproblem på webbplatsen [Adobe status](https://status.adobe.com).
+> Innan du skickar in en supportanmälan bör du överväga att kontrollera Adobe systemprestanda, tillgänglighet och lösningsproblem på webbplatsen [Adobe status](https://status.adobe.com/sv-se).
 
 Processen för att skicka in supportärenden är nu direkt integrerad med Experience League supportplattform. Det här är en självbetjäningsportal som nyligen har gjorts om för att erbjuda mer personalisering och användarvänlighet för berättigade kunder.
 
