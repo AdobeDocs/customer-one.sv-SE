@@ -2,11 +2,11 @@
 cloud: Experience Cloud
 solution: Experience Cloud
 type: Documentation
-git-repo: https://github.com/AdobeDocs/customer-one.sv-SE
-index: false
-source-git-commit: 5aac28e9211bf44db725034218222f730b49d6bd
+git-repo: https://github.com/AdobeDocs/customer-one.en
+hide: true
+source-git-commit: 9d08cb2478c52a27f1f82a51334b67b8054cb6ec
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '125'
 ht-degree: 0%
 
 ---
@@ -24,4 +24,4 @@ Filen metadata.md innehåller metadata på postnivå som skickas till TOC.md-fil
 | getting-started-url | Länk till hjälpsidan Komma igång |
 | tutorials-url | Länka till videosjälvstudiekurser - antingen hjälpstudiekurser eller självstudiekurser på engelska |
 | mini-toc-nivåer | Anger antalet rubriknivåer som visas i den högra listen. standard är 2 |
-| git-repo | Anger platsen för den överordnad rapporten för intern användning |
+| git-repo | Anger platsen för huvudrapporten för intern användning |
