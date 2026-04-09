@@ -34,7 +34,7 @@ Supportsystemadministratörer och kundsupportadministratörer ser systemgenerera
 Dessutom kan systemadministratörer för support:
 
 * Skapa/ta bort supportanvändare i portalen och styr åtkomstroller
-* Granska och validera supportanvändarna i organisationen för att se om de är korrekta. (Instruktioner finns i: [Hantera användare](https://helpx.adobe.com/enterprise/using/users.html) och [Hantera dina teamkonton](https://helpx.adobe.com/enterprise/using/accounts.html).)
+* Granska och validera supportanvändarna i organisationen för att se om de är korrekta. (Instruktioner finns i: [Hantera användare](https://helpx.adobe.com/se/enterprise/using/users.html) och [Hantera dina teamkonton](https://helpx.adobe.com/se/enterprise/using/accounts.html).)
 
 ## Vad du kan förvänta dig härnäst
 
